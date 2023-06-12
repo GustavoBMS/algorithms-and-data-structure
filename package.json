@@ -1,0 +1,19 @@
+{
+  "name": "javascript-algorithms-and-data-structure",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoBMS/algorithms-and-data-structure.git"
+  },
+  "author": "Gustavo Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoBMS/algorithms-and-data-structure/issues"
+  },
+  "homepage": "https://github.com/GustavoBMS/algorithms-and-data-structure#readme",
+  "type": "module"
+}
