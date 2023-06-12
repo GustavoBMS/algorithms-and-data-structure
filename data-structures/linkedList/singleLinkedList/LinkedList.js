@@ -113,10 +113,12 @@ export default class LinkedList {
   // Print list data
   printListData() {
     let current = this.head;
+    const values = [];
 
     while (current) {
-      console.log(current.data);
+      values.push(current.data);
       current = current.next;
     }
+    console.log(values.join(' -> '));
   }
 }
